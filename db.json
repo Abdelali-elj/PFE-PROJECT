@@ -1,0 +1,1724 @@
+{
+  "utilisateurs": [
+    {
+      "id": "1",
+      "email": "admin@gmail.com",
+      "password": "123",
+      "name": "Admin",
+      "userType": "admin"
+    },
+    {
+      "id": "2",
+      "email": "provider@gmail.com",
+      "password": "123",
+      "name": "Service Provider",
+      "userType": "provider"
+    },
+    {
+      "id": "3",
+      "email": "visitor@gmail.com",
+      "password": "123",
+      "name": "Visitor",
+      "userType": "user"
+    },
+    {
+      "id": "1769642695329",
+      "email": "hamid@gmail.com",
+      "password": "123",
+      "name": "hamid",
+      "userType": "guide",
+      "phone": "",
+      "serviceType": "",
+      "ville": "Marrakech"
+    },
+    {
+      "id": "1769715960407",
+      "email": "visitor1@gmail.com",
+      "password": "123",
+      "name": "visitor1",
+      "userType": "visitor",
+      "phone": "",
+      "serviceType": "",
+      "ville": ""
+    }
+  ],
+  "city": [
+    {
+      "nom": "Rabat",
+      "id": "5cbd"
+    },
+    {
+      "nom": "Casablanca",
+      "id": "4bdd"
+    },
+    {
+      "nom": "Marrakech",
+      "id": "401e"
+    },
+    {
+      "nom": "Tanger",
+      "id": "8da0"
+    },
+    {
+      "nom": "Agadir",
+      "id": "d4d0"
+    },
+    {
+      "nom": "Fès",
+      "id": "f4ea"
+    }
+  ],
+  "hotels": [
+    {
+      "nom": "Conrad Rabat Arzana",
+      "ville": "Rabat",
+      "photo": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=1000",
+      "categorie": "5 Stars Luxury",
+      "adress": "Plage Val d'Or, Harhoura, Rabat, Maroc",
+      "contact": "+212537774999",
+      "id": "eecd"
+    },
+    {
+      "nom": "Rabat Marriott Hotel",
+      "ville": "Rabat",
+      "photo": "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=1000",
+      "categorie": "5 Stars Luxury",
+      "adress": "Center Agdal, Avenue Inaouin, Rabat 10000, Maroc",
+      "contact": "+212537226600",
+      "id": "330a"
+    },
+    {
+      "nom": "Fairmont La Marina Rabat Salé Hotel",
+      "ville": "Rabat",
+      "photo": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=1000",
+      "categorie": "5 Stars Luxury",
+      "adress": "La Marina, Avenue de Fès, 11000 Rabat Salé, Maroc",
+      "contact": "+212537820800",
+      "id": "f6a3"
+    },
+    {
+      "nom": "Sofitel Rabat Jardin des Roses",
+      "ville": "Rabat",
+      "photo": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=1000",
+      "categorie": "4 Stars Premium",
+      "adress": "BP 450, Souissi, Rabat, Maroc",
+      "contact": "+212537675656",
+      "id": "d8cf"
+    },
+    {
+      "nom": "Hôtel Atlantic Agdal",
+      "ville": "Rabat",
+      "photo": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=1000",
+      "categorie": "4 Stars",
+      "adress": "Avenue Mehdi Ben Barka, Agdal, Rabat",
+      "contact": "+212537671551",
+      "id": "03ea"
+    },
+    {
+      "nom": "Medina Thalassa Sea & Spa by MGallery",
+      "ville": "Rabat",
+      "photo": "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=1000",
+      "categorie": "3 Stars",
+      "adress": "Avenue Mehdi Ben Barka, Rabat",
+      "contact": "+212537808080",
+      "id": "002c"
+    },
+    {
+      "nom": "Le Palais Hassan Rabat",
+      "ville": "Rabat",
+      "photo": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=1000",
+      "categorie": "5 Stars Luxury",
+      "adress": "Avenue Hassan II, Rabat",
+      "contact": "+212537234567",
+      "id": "adc9"
+    },
+    {
+      "nom": "Riad Kalaa Rabat",
+      "ville": "Rabat",
+      "photo": "https://images.unsplash.com/photo-1590073242678-70ee3fc28e8e?q=80&w=1000",
+      "categorie": "Boutique Hotel",
+      "adress": "Médina de Rabat, Maroc",
+      "contact": "+212537456789",
+      "id": "8bdc"
+    },
+    {
+      "nom": "Villa Mandarine Rabat",
+      "ville": "Rabat",
+      "photo": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=1000",
+      "categorie": "Boutique Luxury",
+      "adress": "19 Rue Ouled Bousbaa, Souissi, Rabat",
+      "contact": "+212537751771",
+      "id": "8cb1"
+    },
+    {
+      "nom": "Riad Oudaya",
+      "ville": "Rabat",
+      "photo": "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=1000",
+      "categorie": "Boutique",
+      "adress": "46 Rue Sidi Fateh, Rabat",
+      "contact": "+212537707392",
+      "id": "5ee8"
+    },
+    {
+      "nom": "Hyatt Regency Casablanca",
+      "ville": "Casablanca",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Hyatt_Regency_Casablanca.jpg",
+      "categorie": "5 Stars Luxury",
+      "adress": "Place des Nations Unies, 20000 Casablanca, Maroc",
+      "contact": "+212522431234",
+      "id": "46c5"
+    },
+    {
+      "nom": "Four Seasons Hotel Casablanca",
+      "ville": "Casablanca",
+      "photo": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=1000",
+      "categorie": "5 Stars Luxury",
+      "adress": "Boulevard de la Corniche, Casablanca",
+      "contact": "+212522529292",
+      "id": "3c4d"
+    },
+    {
+      "nom": "Grand Mogador City Center Casablanca",
+      "ville": "Casablanca",
+      "photo": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=1000",
+      "categorie": "5 Stars",
+      "adress": "Avenue Pasteur, 20000 Casablanca, Maroc",
+      "contact": "+212522417272",
+      "id": "478f"
+    },
+    {
+      "nom": "Onomo Casablanca City Center",
+      "ville": "Casablanca",
+      "photo": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=1000",
+      "categorie": "4 Stars",
+      "adress": "Angle Boulevard Massira El Khadra & Rue de Normandie, Casablanca",
+      "contact": "+212520001000",
+      "id": "312f"
+    },
+    {
+      "nom": "Hotel du Golf Mohammedia",
+      "ville": "Casablanca",
+      "photo": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=1000",
+      "categorie": "4 Stars",
+      "adress": "Mohammedia, Maroc",
+      "contact": "0523301615",
+      "id": "57e2"
+    },
+    {
+      "nom": "Ibis City Center Casablanca",
+      "ville": "Casablanca",
+      "photo": "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=1000",
+      "categorie": "3 Stars",
+      "adress": "Boulevard Almohades, Casablanca",
+      "contact": "+212522401919",
+      "id": "26be"
+    },
+    {
+      "nom": "Kenzi Tower Hotel",
+      "ville": "Casablanca",
+      "photo": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=1000",
+      "categorie": "5 Stars",
+      "adress": "Twin Center, Boulevard Zerktouni, Casablanca",
+      "contact": "+212522978000",
+      "id": "61e0"
+    },
+    {
+      "nom": "Le Casablanca Hotel",
+      "ville": "Casablanca",
+      "photo": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=1000",
+      "categorie": "4 Stars Boutique",
+      "adress": "13 Rue Lahcen Basri, Casablanca",
+      "contact": "+212522314545",
+      "id": "a8c9"
+    },
+    {
+      "nom": "Barceló Casablanca",
+      "ville": "Casablanca",
+      "photo": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=1000",
+      "categorie": "4 Stars",
+      "adress": "Avenue des FAR, Casablanca",
+      "contact": "+212522208080",
+      "id": "1555"
+    },
+    {
+      "nom": "Art Palace Suites & Spa",
+      "ville": "Casablanca",
+      "photo": "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=1000",
+      "categorie": "5 Stars",
+      "adress": "101 Boulevard Massira Al Khadra, Casablanca",
+      "contact": "+212522208888",
+      "id": "1d1b"
+    },
+    {
+      "nom": "La Mamounia",
+      "ville": "Marrakech",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Hotel_La_Mamounia.jpg",
+      "categorie": "5 Stars Luxury",
+      "adress": "Avenue Bab Jdid, 40040 Marrakech, Maroc",
+      "contact": "+212524388600",
+      "id": "12c1"
+    },
+    {
+      "nom": "Amanjena",
+      "ville": "Marrakech",
+      "photo": "https://images.unsplash.com/photo-1590073242678-70ee3fc28e8e?q=80&w=1000",
+      "categorie": "5 Stars Luxury",
+      "adress": "BP 2405, Gueliz Marrakech 40000, Maroc",
+      "contact": "+212524399000",
+      "id": "ec9b"
+    },
+    {
+      "nom": "Grand Mogador Menara & Spa",
+      "ville": "Marrakech",
+      "photo": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=1000",
+      "categorie": "5 Stars",
+      "adress": "Avenue Mohammed VI, Marrakech",
+      "contact": "+212524339700",
+      "id": "dba8"
+    },
+    {
+      "nom": "Kech Boutique Hôtel & Spa",
+      "ville": "Marrakech",
+      "photo": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=1000",
+      "categorie": "4 Stars Boutique",
+      "adress": "Rue de la Kasbah, Marrakech",
+      "contact": "+212524381010",
+      "id": "4ba2"
+    },
+    {
+      "nom": "Novotel Marrakech",
+      "ville": "Marrakech",
+      "photo": "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=1000",
+      "categorie": "4 Stars",
+      "adress": "Avenue Mohammed VI, Marrakech",
+      "contact": "+212524339300",
+      "id": "2910"
+    },
+    {
+      "nom": "Royal Mansour Marrakech",
+      "ville": "Marrakech",
+      "photo": "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=1000",
+      "categorie": "5 Stars Palace",
+      "adress": "Rue Abou Abbas El Sebti, Marrakech",
+      "contact": "+212529808080",
+      "id": "e496"
+    },
+    {
+      "nom": "Selman Marrakech",
+      "ville": "Marrakech",
+      "photo": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=1000",
+      "categorie": "5 Stars Luxury",
+      "adress": "Route de Fès, Marrakech",
+      "contact": "+212524459600",
+      "id": "6885"
+    },
+    {
+      "nom": "Mandarin Oriental Marrakech",
+      "ville": "Marrakech",
+      "photo": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=1000",
+      "categorie": "5 Stars Luxury",
+      "adress": "Route de Ouarzazate, Marrakech",
+      "contact": "+212524298888",
+      "id": "559e"
+    },
+    {
+      "nom": "Four Seasons Resort Marrakech",
+      "ville": "Marrakech",
+      "photo": "https://images.unsplash.com/photo-1590073242678-70ee3fc28e8e?q=80&w=1000",
+      "categorie": "5 Stars Resort",
+      "adress": "1 Boulevard de la Menara, Marrakech",
+      "contact": "+212524359200",
+      "id": "db6f"
+    },
+    {
+      "nom": "Riad Kniza",
+      "ville": "Marrakech",
+      "photo": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=1000",
+      "categorie": "Boutique Riad",
+      "adress": "34 Derb l'Hotel, Bab Doukkala, Marrakech",
+      "contact": "+212524376942",
+      "id": "e34c"
+    },
+    {
+      "nom": "Hilton Tanger City Center",
+      "ville": "Tanger",
+      "photo": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=1000",
+      "categorie": "5 Stars",
+      "adress": "Rond point de la gare Tanger City Center, Tanger 90000",
+      "contact": "+212539309700",
+      "id": "7c9a"
+    },
+    {
+      "nom": "Grand Hotel Villa de France",
+      "ville": "Tanger",
+      "photo": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=1000",
+      "categorie": "5 Stars Heritage",
+      "adress": "143 Rue de Hollande, Tanger",
+      "contact": "+212539333111",
+      "id": "523c"
+    },
+    {
+      "nom": "Fairmont Tazi Palace Tanger",
+      "ville": "Tanger",
+      "photo": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=1000",
+      "categorie": "5 Stars Luxury",
+      "adress": "Avenue Mohamed VI, Tanger",
+      "contact": "+212539949494",
+      "id": "7622"
+    },
+    {
+      "nom": "Mandarin Palace Hotel & Spa",
+      "ville": "Tanger",
+      "photo": "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=1000",
+      "categorie": "4 Stars",
+      "adress": "Avenue Mohamed VI, Tanger",
+      "contact": "+212539374747",
+      "id": "6146"
+    },
+    {
+      "nom": "Hotel Rembrandt Tanger",
+      "ville": "Tanger",
+      "photo": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=1000",
+      "categorie": "4 Stars",
+      "adress": "Boulevard Mohammed V, Tanger",
+      "contact": "+212539333333",
+      "id": "681f"
+    },
+    {
+      "nom": "El Minzah Hotel",
+      "ville": "Tanger",
+      "photo": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=1000",
+      "categorie": "5 Stars Heritage",
+      "adress": "85 Rue de la Liberté, Tanger",
+      "contact": "+212539333444",
+      "id": "c683"
+    },
+    {
+      "nom": "Mövenpick Hotel & Casino Malabata",
+      "ville": "Tanger",
+      "photo": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=1000",
+      "categorie": "5 Stars",
+      "adress": "Route de Malabata, Tanger",
+      "contact": "+212539349300",
+      "id": "4d31"
+    },
+    {
+      "nom": "Kenzi Solazur",
+      "ville": "Tanger",
+      "photo": "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=1000",
+      "categorie": "4 Stars",
+      "adress": "Avenue Mohamed VI, Tanger",
+      "contact": "+212539340000",
+      "id": "4e30"
+    },
+    {
+      "nom": "Sofitel Agadir Thalassa Sea & Spa",
+      "ville": "Agadir",
+      "photo": "https://images.unsplash.com/photo-1582719508461-905c673771fd?q=80&w=1000",
+      "categorie": "5 Stars Luxury",
+      "adress": "Baie des Palmiers, Cité Founty P5, 80010 Agadir",
+      "contact": "+212528388000",
+      "id": "6538"
+    },
+    {
+      "nom": "Royal Atlas Agadir",
+      "ville": "Agadir",
+      "photo": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=1000",
+      "categorie": "5 Stars",
+      "adress": "Boulevard Mohammed V, Agadir",
+      "contact": "+212528828282",
+      "id": "bee7"
+    },
+    {
+      "nom": "Tikida Golf Palace",
+      "ville": "Agadir",
+      "photo": "https://images.unsplash.com/photo-1544124499-58912cbddaad?q=80&w=1000",
+      "categorie": "5 Stars Resort",
+      "adress": "Km 7, Route de Bensergao, BP 901, Agadir",
+      "contact": "+212528832727",
+      "id": "9514"
+    },
+    {
+      "nom": "Iberostar Founty Beach",
+      "ville": "Agadir",
+      "photo": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=1000",
+      "categorie": "4 Stars All-Inclusive",
+      "adress": "Baie de Founty, Agadir",
+      "contact": "+212528847000",
+      "id": "97e9"
+    },
+    {
+      "nom": "Agadir Beach Club",
+      "ville": "Agadir",
+      "photo": "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=1000",
+      "categorie": "4 Stars",
+      "adress": "Chemin des Dunes, Agadir",
+      "contact": "+212528846363",
+      "id": "1c0d"
+    },
+    {
+      "nom": "Atlantic Palace Resort",
+      "ville": "Agadir",
+      "photo": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=1000",
+      "categorie": "5 Stars",
+      "adress": "Secteur Balnéaire, Agadir",
+      "contact": "+212528829292",
+      "id": "97dc"
+    },
+    {
+      "nom": "Riu Palace Tikida Agadir",
+      "ville": "Agadir",
+      "photo": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=1000",
+      "categorie": "5 Stars All-Inclusive",
+      "adress": "Chemin des Dunes, Agadir",
+      "contact": "+212528845400",
+      "id": "0716"
+    },
+    {
+      "nom": "Paradis Plage Surf Yoga & Spa",
+      "ville": "Agadir",
+      "photo": "https://images.unsplash.com/photo-1590073242678-70ee3fc28e8e?q=80&w=1000",
+      "categorie": "4 Stars Resort",
+      "adress": "Km 30 Route d'Essaouira, Agadir",
+      "contact": "+212528298000",
+      "id": "05af"
+    },
+    {
+      "nom": "Hotel Sahrai Fès",
+      "ville": "Fès",
+      "photo": "https://images.unsplash.com/photo-1590073242678-70ee3fc28e8e?q=80&w=1000",
+      "categorie": "5 Stars Luxury",
+      "adress": "Bab Lghoul, Dhar El Mehraz, 30000 Fès",
+      "contact": "+212535940332",
+      "id": "5be4"
+    },
+    {
+      "nom": "Barceló Fès Medina",
+      "ville": "Fès",
+      "photo": "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=1000",
+      "categorie": "5 Stars",
+      "adress": "53 Avenue Hassan II, 30000 Fès",
+      "contact": "+212535948800",
+      "id": "41bc"
+    },
+    {
+      "nom": "Volubilis Hotel & Spa Fès",
+      "ville": "Fès",
+      "photo": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=1000",
+      "categorie": "5 Stars",
+      "adress": "Avenue Allal Ben Abdellah, Fès",
+      "contact": "+212535654343",
+      "id": "3f14"
+    },
+    {
+      "nom": "Relax Hotel Fès",
+      "ville": "Fès",
+      "photo": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=1000",
+      "categorie": "4 Stars",
+      "adress": "Avenue des Almohades, Fès",
+      "contact": "+212535656767",
+      "id": "7c71"
+    },
+    {
+      "nom": "Ibis Fès",
+      "ville": "Fès",
+      "photo": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=1000",
+      "categorie": "3 Stars",
+      "adress": "Avenue des FAR, Fès",
+      "contact": "+212535651902",
+      "id": "5d4f"
+    },
+    {
+      "nom": "Ibis Budget Fès",
+      "ville": "Fès",
+      "photo": "https://images.unsplash.com/photo-1590073242678-70ee3fc28e8e?q=80&w=1000",
+      "categorie": "Budget",
+      "adress": "Route d'Imouzzer, Fès",
+      "contact": "+212535651903",
+      "id": "779c"
+    },
+    {
+      "nom": "Riad Fès",
+      "ville": "Fès",
+      "photo": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=1000",
+      "categorie": "5 Stars Boutique",
+      "adress": "5 Derb Ben Slimane, Fès",
+      "contact": "+212535741206",
+      "id": "c592"
+    },
+    {
+      "nom": "Palais Faraj Suites & Spa",
+      "ville": "Fès",
+      "photo": "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=1000",
+      "categorie": "5 Stars Palace",
+      "adress": "Bab Ziat, Quartier Ziat, Fès",
+      "contact": "+212535635356",
+      "id": "0aa8"
+    },
+    {
+      "nom": "Riad Laaroussa",
+      "ville": "Fès",
+      "photo": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=1000",
+      "categorie": "Boutique Riad",
+      "adress": "3 Derb Bechara, Fès",
+      "contact": "+212535187639",
+      "id": "15da"
+    },
+    {
+      "nom": "Dar Seffarine",
+      "ville": "Fès",
+      "photo": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=1000",
+      "categorie": "Boutique Riad",
+      "adress": "14 Derb Seffarine, Fès",
+      "contact": "+212535633333",
+      "id": "2a7a"
+    }
+  ],
+  "restaurant": [
+    {
+      "nom": "Dar Rbatia",
+      "ville": "Rabat",
+      "photo": "https://media-cdn.tripadvisor.com/media/photo-s/08/9b/3b/3b/dar-rbatia.jpg",
+      "categorie": "★★★★★",
+      "adress": "Rabat, Maroc",
+      "contact": "",
+      "id": "6428"
+    },
+    {
+      "nom": "Dar Zaki",
+      "ville": "Rabat",
+      "photo": "https://media-cdn.tripadvisor.com/media/photo-s/04/1e/8a/8a/dar-zaki.jpg",
+      "categorie": "★★★★★",
+      "adress": "Médina de Rabat, Maroc",
+      "contact": "",
+      "id": "0d9d"
+    },
+    {
+      "nom": "Le Grill Robuchon",
+      "ville": "Rabat",
+      "photo": "https://media-cdn.tripadvisor.com/media/photo-s/04/1e/8a/8a/le-grill-robuchon.jpg",
+      "categorie": "★★★★★",
+      "adress": "Rabat, Maroc",
+      "contact": "",
+      "id": "4360"
+    },
+    {
+      "nom": "Tangerino",
+      "ville": "Rabat",
+      "photo": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=1000",
+      "categorie": "★★★★★",
+      "adress": "Rabat, Maroc",
+      "contact": "",
+      "id": "00dd"
+    },
+    {
+      "nom": "Golden Fish",
+      "ville": "Rabat",
+      "photo": "https://images.unsplash.com/photo-1552566626-52f8b828add9?q=80&w=1000",
+      "categorie": "★★★★★",
+      "adress": "Rabat, Maroc",
+      "contact": "",
+      "id": "acb2"
+    },
+    {
+      "nom": "La Brise",
+      "ville": "Rabat",
+      "photo": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1000",
+      "categorie": "★★★★★",
+      "adress": "Rabat, Maroc",
+      "contact": "",
+      "id": "6e39"
+    },
+    {
+      "nom": "Le Cabestan Ocean View",
+      "ville": "Casablanca",
+      "photo": "/images/restaurantC1.jpg",
+      "categorie": "★★★★★",
+      "adress": "Casablanca, Maroc",
+      "contact": "",
+      "id": "3bec"
+    },
+    {
+      "nom": "La Sqala",
+      "ville": "Casablanca",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/La_Sqala_Casablanca.jpg",
+      "categorie": "★★★★★",
+      "adress": "Casablanca, Maroc",
+      "contact": "",
+      "id": "dc06"
+    },
+    {
+      "nom": "Le Table 3",
+      "ville": "Casablanca",
+      "photo": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=1000",
+      "categorie": "★★★★★",
+      "adress": "Casablanca, Maroc",
+      "contact": "",
+      "id": "7830"
+    },
+    {
+      "nom": "Café M",
+      "ville": "Casablanca",
+      "photo": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=1000",
+      "categorie": "★★★★★",
+      "adress": "Casablanca, Maroc",
+      "contact": "",
+      "id": "7088"
+    },
+    {
+      "nom": "Dar Beida",
+      "ville": "Casablanca",
+      "photo": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=1000",
+      "categorie": "★★★★★",
+      "adress": "Casablanca, Maroc",
+      "contact": "",
+      "id": "1f74"
+    },
+    {
+      "nom": "Bissat",
+      "ville": "Casablanca",
+      "photo": "https://images.unsplash.com/photo-1552566626-52f8b828add9?q=80&w=1000",
+      "categorie": "★★★★★",
+      "adress": "Casablanca, Maroc",
+      "contact": "",
+      "id": "705a"
+    },
+    {
+      "nom": "La Grande Table Marocaine",
+      "ville": "Marrakech",
+      "photo": "/images/restaurantM1.jpg",
+      "categorie": "★★★★★",
+      "adress": "Marrakech, Maroc",
+      "contact": "",
+      "id": "45ed"
+    },
+    {
+      "nom": "Sesamo",
+      "ville": "Marrakech",
+      "photo": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1000",
+      "categorie": "★★★★★",
+      "adress": "Marrakech, Maroc",
+      "contact": "",
+      "id": "90cf"
+    },
+    {
+      "nom": "Le Tobsil",
+      "ville": "Marrakech",
+      "photo": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=1000",
+      "categorie": "★★★★★",
+      "adress": "Marrakech, Maroc",
+      "contact": "",
+      "id": "e0c5"
+    },
+    {
+      "nom": "Le Foundouk",
+      "ville": "Marrakech",
+      "photo": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=1000",
+      "categorie": "★★★★★",
+      "adress": "Marrakech, Maroc",
+      "contact": "",
+      "id": "97a5"
+    },
+    {
+      "nom": "À La Pause",
+      "ville": "Marrakech",
+      "photo": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=1000",
+      "categorie": "★★★★★",
+      "adress": "Marrakech, Maroc",
+      "contact": "",
+      "id": "11e7"
+    },
+    {
+      "nom": "Assoufid Club House",
+      "ville": "Marrakech",
+      "photo": "https://images.unsplash.com/photo-1552566626-52f8b828add9?q=80&w=1000",
+      "categorie": "★★★★★",
+      "adress": "Marrakech, Maroc",
+      "contact": "",
+      "id": "05cc"
+    },
+    {
+      "nom": "La Brasserie de Paris Tanger",
+      "ville": "Tanger",
+      "photo": "/images/restaurantT1.jpg",
+      "categorie": "★★★★★",
+      "adress": "Tanger, Maroc",
+      "contact": "",
+      "id": "5e19"
+    },
+    {
+      "nom": "Café Hafa",
+      "ville": "Tanger",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/7/77/Caf%C3%A9_Hafa_Tangier.jpg",
+      "categorie": "★★★★★",
+      "adress": "Tanger, Maroc",
+      "contact": "",
+      "id": "9a89"
+    },
+    {
+      "nom": "L’Orangerie Tanger",
+      "ville": "Tanger",
+      "photo": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1000",
+      "categorie": "★★★★★",
+      "adress": "Tanger, Maroc",
+      "contact": "",
+      "id": "47d4"
+    },
+    {
+      "nom": "Mandarin Palace Hotel & Spa Tanger",
+      "ville": "Tanger",
+      "photo": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=1000",
+      "categorie": "★★★★★",
+      "adress": "Tanger, Maroc",
+      "contact": "",
+      "id": "2448"
+    },
+    {
+      "nom": "Othello Tanger",
+      "ville": "Tanger",
+      "photo": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=1000",
+      "categorie": "★★★★★",
+      "adress": "Tanger, Maroc",
+      "contact": "",
+      "id": "1f1a"
+    },
+    {
+      "nom": "La Villa Ô Saveur",
+      "ville": "Tanger",
+      "photo": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=1000",
+      "categorie": "★★★★★",
+      "adress": "Tanger, Maroc",
+      "contact": "",
+      "id": "5eed"
+    },
+    {
+      "nom": "La Villa Blanche",
+      "ville": "Agadir",
+      "photo": "https://images.unsplash.com/photo-1552566626-52f8b828add9?q=80&w=1000",
+      "categorie": "★★★★★",
+      "adress": "Agadir, Maroc",
+      "contact": "",
+      "id": "9a76"
+    },
+    {
+      "nom": "Le Dome Restaurant Agadir",
+      "ville": "Agadir",
+      "photo": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1000",
+      "categorie": "★★★★★",
+      "adress": "Agadir, Maroc",
+      "contact": "",
+      "id": "90f8"
+    },
+    {
+      "nom": "Golden Gate Agadir",
+      "ville": "Agadir",
+      "photo": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=1000",
+      "categorie": "★★★★★",
+      "adress": "Agadir, Maroc",
+      "contact": "",
+      "id": "6181"
+    },
+    {
+      "nom": "Restaurant Milano Agadir",
+      "ville": "Agadir",
+      "photo": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=1000",
+      "categorie": "★★★★★",
+      "adress": "Agadir, Maroc",
+      "contact": "",
+      "id": "6f5b"
+    },
+    {
+      "nom": "Iberostar Founty Beach Restaurant",
+      "ville": "Agadir",
+      "photo": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=1000",
+      "categorie": "★★★★★",
+      "adress": "Agadir, Maroc",
+      "contact": "",
+      "id": "759f"
+    },
+    {
+      "nom": "Agadir Beach Club Restaurant",
+      "ville": "Agadir",
+      "photo": "https://images.unsplash.com/photo-1552566626-52f8b828add9?q=80&w=1000",
+      "categorie": "★★★★★",
+      "adress": "Agadir, Maroc",
+      "contact": "",
+      "id": "6a9b"
+    },
+    {
+      "nom": "Dar Roumana",
+      "ville": "Fès",
+      "photo": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1000",
+      "categorie": "★★★★★",
+      "adress": "Fès, Maroc",
+      "contact": "",
+      "id": "4b36"
+    },
+    {
+      "nom": "Fez And Friends",
+      "ville": "Fès",
+      "photo": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=1000",
+      "categorie": "★★★★★",
+      "adress": "Fès, Maroc",
+      "contact": "",
+      "id": "200c"
+    },
+    {
+      "nom": "Restaurant Riad Rcif Originale",
+      "ville": "Fès",
+      "photo": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=1000",
+      "categorie": "★★★★★",
+      "adress": "Fès, Maroc",
+      "contact": "",
+      "id": "e3e6"
+    },
+    {
+      "nom": "Restaurant Dar Khabya Original",
+      "ville": "Fès",
+      "photo": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=1000",
+      "categorie": "★★★★★",
+      "adress": "Fès, Maroc",
+      "contact": "",
+      "id": "5e1f"
+    },
+    {
+      "nom": "Restaurant Dar Hammad",
+      "ville": "Fès",
+      "photo": "https://images.unsplash.com/photo-1552566626-52f8b828add9?q=80&w=1000",
+      "categorie": "★★★★★",
+      "adress": "Fès, Maroc",
+      "contact": "",
+      "id": "2fcb"
+    },
+    {
+      "nom": "La Cave Fès",
+      "ville": "Fès",
+      "photo": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1000",
+      "categorie": "★★★★★",
+      "adress": "Fès, Maroc",
+      "contact": "",
+      "id": "455b"
+    },
+    {
+      "nom": "Dar Naji",
+      "ville": "Rabat",
+      "photo": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=1000",
+      "categorie": "★★★★",
+      "adress": "Avenue Jazirat Al Arab, Rabat",
+      "contact": "+212 5372-62628",
+      "id": "408e"
+    },
+    {
+      "nom": "Rick's Café",
+      "ville": "Casablanca",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Rick%27s_Cafe_Casablanca.jpg",
+      "categorie": "★★★★★",
+      "adress": "248 Boulevard Sour Jdid, Casablanca",
+      "contact": "+212 5222-74207",
+      "id": "925d"
+    },
+    {
+      "nom": "Nomad",
+      "ville": "Marrakech",
+      "photo": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=1000",
+      "categorie": "★★★★",
+      "adress": "1 Derb Aarjane, Marrakech",
+      "contact": "+212 5243-81609",
+      "id": "5a30"
+    },
+    {
+      "nom": "El Morocco Club",
+      "ville": "Tanger",
+      "photo": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=1000",
+      "categorie": "★★★★★",
+      "adress": "Place du Tabor, Kasbah, Tanger",
+      "contact": "+212 5393-70378",
+      "id": "78f7"
+    },
+    {
+      "nom": "The Ruined Garden",
+      "ville": "Fès",
+      "photo": "https://images.unsplash.com/photo-1552566626-52f8b828add9?q=80&w=1000",
+      "categorie": "★★★★",
+      "adress": "15 Derb Idrissi, Fès",
+      "contact": "+212 649-191410",
+      "id": "5bd5"
+    },
+    {
+      "nom": "Pure Passion",
+      "ville": "Agadir",
+      "photo": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1000",
+      "categorie": "★★★★★",
+      "adress": "Marina d'Agadir, Agadir",
+      "contact": "+212 5288-40120",
+      "id": "5adf"
+    }
+  ],
+  "stadium": [
+    {
+      "nom": "Complexe Sportif Prince Moulay Abdellah",
+      "ville": "Rabat",
+      "adress": "Avenue Ibn Rochd, Rabat",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Stade_Moulay_Abdellah.jpg",
+      "capacite": 60000,
+      "id": "c3ff"
+    },
+    {
+      "nom": "Stade Al Barid",
+      "ville": "Rabat",
+      "adress": "Quartier Yacoub El Mansour, Rabat",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?q=80&w=1000",
+      "capacite": 15000,
+      "id": "bddf"
+    },
+    {
+      "nom": "Stade Olympique Annexe PMA",
+      "ville": "Rabat",
+      "adress": "Complexe Sportif PMA, Rabat",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?q=80&w=1000",
+      "capacite": 10000,
+      "id": "c464"
+    },
+    {
+      "nom": "Complexe Sportif Prince Héritier Moulay El Hassan",
+      "ville": "Rabat",
+      "adress": "Avenue Hassan II, Rabat",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?q=80&w=1000",
+      "capacite": 12000,
+      "id": "c186"
+    },
+    {
+      "nom": "Complexe Sportif Mohammed V",
+      "ville": "Casablanca",
+      "adress": "Rue Omar Slaoui, Casablanca",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Stade_Mohammed_V.jpg",
+      "capacite": 45000,
+      "id": "24f7"
+    },
+    {
+      "nom": "Grand Stade Hassan II (Nouveau)",
+      "ville": "Casablanca",
+      "adress": "Nouvelle zone sportive, Casablanca",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?q=80&w=1000",
+      "capacite": 115000,
+      "id": "704d"
+    },
+    {
+      "nom": "Grand Stade de Tanger (Ibn Batouta)",
+      "ville": "Tanger",
+      "adress": "Avenue Moulay Rachid, Tanger",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Stade_Ibn_Batouta_Tanger.jpg",
+      "capacite": 68000,
+      "id": "ab18"
+    },
+    {
+      "nom": "Stade Ibn Batouta (Extension 2030)",
+      "ville": "Tanger",
+      "adress": "Avenue Moulay Rachid, Tanger",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Stade_Ibn_Batouta_Tanger.jpg",
+      "capacite": 80000,
+      "id": "eb1b"
+    },
+    {
+      "nom": "Complexe Sportif de Fès",
+      "ville": "Fès",
+      "adress": "Route Sefrou, Fès",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?q=80&w=1000",
+      "capacite": 35000,
+      "id": "c409"
+    },
+    {
+      "nom": "Complexe Sportif de Fès (Modernisation 2030)",
+      "ville": "Fès",
+      "adress": "Route Sefrou, Fès",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?q=80&w=1000",
+      "capacite": 50000,
+      "id": "da13"
+    },
+    {
+      "nom": "Grand Stade d'Agadir (Adrar)",
+      "ville": "Agadir",
+      "adress": "Route de Tamarsit, Agadir",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Stade_Adrar_Agadir.jpg",
+      "capacite": 45000,
+      "id": "f5d2"
+    },
+    {
+      "nom": "Grand Stade d'Agadir (Extension 2030)",
+      "ville": "Agadir",
+      "adress": "Route de Tamarsit, Agadir",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Stade_Adrar_Agadir.jpg",
+      "capacite": 70000,
+      "id": "78a1"
+    },
+    {
+      "nom": "Grand Stade de Marrakech",
+      "ville": "Marrakech",
+      "adress": "Route de Casablanca, Marrakech",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Stade_de_Marrakech.jpg",
+      "capacite": 45000,
+      "id": "f5f8"
+    },
+    {
+      "nom": "Grand Stade de Marrakech (Extension 2030)",
+      "ville": "Marrakech",
+      "adress": "Route de Casablanca, Marrakech",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Stade_de_Marrakech.jpg",
+      "capacite": 70000,
+      "id": "3035"
+    }
+  ],
+  "place": [
+    {
+      "ville": "Rabat",
+      "nom": "Mausolée Mohammed V",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Mausoleum_of_Mohammed_V_01.jpg",
+      "description": "Monument historique abritant les tombes royales avec architecture traditionnelle marocaine élégante.",
+      "id": "ea30"
+    },
+    {
+      "ville": "Rabat",
+      "nom": "Kasbah des Oudayas",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Oudayas_Kasbah%2C_Rabat.jpg",
+      "description": "Ancienne forteresse donnant sur l’océan, ruelles bleues et vues magnifiques sur l’embouchure du Bouregreg.",
+      "id": "0935"
+    },
+    {
+      "ville": "Rabat",
+      "nom": "Tour Hassan",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Hassan_Tower_Rabat_Morocco.jpg",
+      "description": "Minaret inachevé du XIIe siècle entouré de centaines de colonnes, symbole historique de la capitale.",
+      "id": "b6cd"
+    },
+    {
+      "ville": "Rabat",
+      "nom": "Zoo de Rabat",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Jardin_zoologique_de_Rabat_01.jpg",
+      "description": "Grand parc zoologique réputé pour son écosystème africain et ses espaces naturels bien conçus.",
+      "id": "d181"
+    },
+    {
+      "ville": "Casablanca",
+      "nom": "Mosquée Hassan II",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Hassan_II_Mosque_Casablanca_Morocco.jpg",
+      "description": "La plus grande mosquée du Maroc, construite au bord de l’Atlantique avec un minaret de 210 m.",
+      "id": "2bc4"
+    },
+    {
+      "ville": "Casablanca",
+      "nom": "Corniche Ain Diab",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Corniche_Casablanca.jpg",
+      "description": "Promenade côtière populaire pour restaurants, cafés et plages avec ambiance vivante.",
+      "id": "f061"
+    },
+    {
+      "ville": "Casablanca",
+      "nom": "Quartier Habous",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/New_Medina%2C_Habous%2C_Casablanca%2C_Morocco.jpg",
+      "description": "Ancien quartier aux ruelles traditionnelles connu pour son artisanat et ses pâtisseries marocaines.",
+      "id": "a6ae"
+    },
+    {
+      "ville": "Casablanca",
+      "nom": "Morocco Mall",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Morocco_Mall_Casablanca.jpg",
+      "description": "Un des plus grands malls d’Afrique, avec aquarium géant, boutiques et espaces loisirs.",
+      "id": "d415"
+    },
+    {
+      "ville": "Tanger",
+      "nom": "Cap Spartel",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Cap_Spartel%2C_Tangier%2C_Morocco_-_panoramio.jpg",
+      "description": "Point de rencontre Atlantique–Méditerranée offrant panoramas sublimes sur les falaises.",
+      "id": "144a"
+    },
+    {
+      "ville": "Tanger",
+      "nom": "Grottes d'Hercule",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Hercules_Caves_Tangier.jpg",
+      "description": "Site mythique avec ouverture en forme d’Afrique offrant vues sur l’océan.",
+      "id": "4a01"
+    },
+    {
+      "ville": "Tanger",
+      "nom": "Medina de Tanger",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Tanger_m%C3%A9dina_01.jpg",
+      "description": "Vieille ville animée avec souks, artisanat et ruelles menant au port.",
+      "id": "e628"
+    },
+    {
+      "ville": "Tanger",
+      "nom": "Musée de la Kasbah",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Le_palais_Dar_el-Makhzen_-_Kasbah_-_Tanger.jpg",
+      "description": "Ancien palais devenu musée présentant l’histoire et l’art marocain.",
+      "id": "29eb"
+    },
+    {
+      "ville": "Fès",
+      "nom": "Médina de Fès el-Bali",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Fez_el_Bali.jpg",
+      "description": "Patrimoine mondial UNESCO, plus grande médina du monde avec souks et ruelles historiques.",
+      "id": "f051"
+    },
+    {
+      "ville": "Fès",
+      "nom": "Université Al Quaraouiyine",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/University_of_Al-Karaouine_Fez_August_2011.jpg",
+      "description": "Considérée comme la plus ancienne université du monde encore active.",
+      "id": "5821"
+    },
+    {
+      "ville": "Fès",
+      "nom": "Tanneries Chouara",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Tanneries_of_Fez.jpg",
+      "description": "Les plus célèbres tanneries au monde où le cuir est travaillé à la main.",
+      "id": "72a3"
+    },
+    {
+      "ville": "Fès",
+      "nom": "Jardin Jnan Sbil",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Jardin_Jnan_Sbil_Fes_01.jpg",
+      "description": "Joli parc calme avec fontaines et espaces verts parfaits pour se détendre.",
+      "id": "2e96"
+    },
+    {
+      "ville": "Agadir",
+      "nom": "Marina d'Agadir",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Marina_Agadir_by_AmalouMed.jpg",
+      "description": "Zone moderne avec yachts, restaurants et ambiance balnéaire.",
+      "id": "dd78"
+    },
+    {
+      "ville": "Agadir",
+      "nom": "La Corniche",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Agadir_Plage_01.jpg",
+      "description": "Longue plage propre idéale pour promenades, sports nautiques et cafés.",
+      "id": "71c2"
+    },
+    {
+      "ville": "Agadir",
+      "nom": "Kasbah Oufella",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Agadir_Oufela_01.jpg",
+      "description": "Ancienne forteresse offrant panorama impressionnant sur toute la ville et l’océan.",
+      "id": "282c"
+    },
+    {
+      "ville": "Agadir",
+      "nom": "Souk El Had",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Souk_El_Had_Agadir_01.jpg",
+      "description": "Grand marché traditionnel avec milliers de stands d’artisanat et produits locaux.",
+      "id": "63d2"
+    },
+    {
+      "ville": "Marrakech",
+      "nom": "Jemaa el-Fna",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Place_Jemaa_el_Fna.jpg",
+      "description": "Place emblématique animée par artistes, marchands et gastronomie locale.",
+      "id": "6383"
+    },
+    {
+      "ville": "Marrakech",
+      "nom": "Jardin Majorelle",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Majorelle_Garden_Marrakesh.jpg",
+      "description": "Jardin légendaire aux couleurs vives, appartenant autrefois à Yves Saint Laurent.",
+      "id": "da63"
+    },
+    {
+      "ville": "Marrakech",
+      "nom": "Palais Bahia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Palais_de_la_Bahia_Marrakech_14.jpg",
+      "description": "Chef-d’œuvre architectural aux mosaïques raffinées et vastes patios.",
+      "id": "848a"
+    },
+    {
+      "ville": "Marrakech",
+      "nom": "Medina et Souks",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Souks_of_Marrakesh.jpg",
+      "description": "Réseau de ruelles mythiques rempli d’artisanat, épices et culture marocaine authentique.",
+      "id": "58d3"
+    },
+    {
+      "ville": "Rabat",
+      "nom": "Jardin d'Essais Botaniques",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Jardin_d%27Essais_Botaniques_de_Rabat.jpg",
+      "description": "Magnifique jardin créé au début du XXe siècle, abritant des espèces végétales rares.",
+      "id": "c13b"
+    },
+    {
+      "ville": "Casablanca",
+      "nom": "Parc de la Ligue Arabe",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Parc_de_la_Ligue_Arabe.jpg",
+      "description": "Le plus grand espace vert de la ville, récemment rénové avec de superbes allées de palmiers.",
+      "id": "1670"
+    },
+    {
+      "ville": "Marrakech",
+      "nom": "Tombeaux Saadiens",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Saadian_Tombs_Marrakech.jpg",
+      "description": "Nécropole royale historique magnifiquement décorée de marbre et de cèdre.",
+      "id": "dfbc"
+    },
+    {
+      "ville": "Tanger",
+      "nom": "Grottes d'Hercule",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Hercules_Cave_Tangier.jpg",
+      "description": "Grottes mythiques avec une vue spectaculaire sur l'Atlantique à travers une ouverture unique.",
+      "id": "83b0"
+    },
+    {
+      "ville": "Fès",
+      "nom": "Bab Boujloud",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Bab_Bou_Jeloud_Fes.jpg",
+      "description": "La porte bleue monumentale qui marque l'entrée principale de la médina de Fès.",
+      "id": "3651"
+    },
+    {
+      "ville": "Agadir",
+      "nom": "Crocoparc",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Crocoparc_Agadir.jpg",
+      "description": "Un parc animalier unique dédié aux crocodiles du Nil dans un jardin botanique somptueux.",
+      "id": "3b10"
+    }
+  ],
+  "transport": [
+    {
+      "nom": "Petit Taxi Casablanca",
+      "type": "Taxi",
+      "ville": "Casablanca",
+      "desc": "Taxis rouges pour les trajets urbains rapides.",
+      "lien": "tel:19",
+      "id": "0c78"
+    },
+    {
+      "nom": "Tramway Casablanca",
+      "type": "Tramway",
+      "ville": "Casablanca",
+      "desc": "Réseau moderne reliant les points clés de la métropole.",
+      "lien": "https://www.casatramway.ma/",
+      "id": "3732"
+    },
+    {
+      "nom": "Al Boraq (TGV) - Casa Voyageurs",
+      "type": "Train",
+      "ville": "Casablanca",
+      "desc": "Train à grande vitesse vers Tanger via Rabat.",
+      "lien": "https://www.oncf.ma/",
+      "id": "445a"
+    },
+    {
+      "nom": "Bus Alsa Casablanca",
+      "type": "Bus",
+      "ville": "Casablanca",
+      "desc": "Réseau de bus couvrant l'ensemble du Grand Casablanca.",
+      "lien": "https://www.alsacasablanca.ma/",
+      "id": "9619"
+    },
+    {
+      "nom": "Petit Taxi Rabat",
+      "type": "Taxi",
+      "ville": "Rabat",
+      "desc": "Taxis bleus pour circuler dans la capitale.",
+      "lien": "tel:19",
+      "id": "1338"
+    },
+    {
+      "nom": "Tramway Rabat-Salé",
+      "type": "Tramway",
+      "ville": "Rabat",
+      "desc": "Lignes reliant Rabat et Salé à travers le Bouregreg.",
+      "lien": "https://www.tramwayrabatsale.ma/",
+      "id": "654b"
+    },
+    {
+      "nom": "Gare Rabat Agdal (ONCF)",
+      "type": "Train",
+      "ville": "Rabat",
+      "desc": "Hub ferroviaire majeur pour les trains régionaux et TGV.",
+      "lien": "https://www.oncf.ma/",
+      "id": "dae6"
+    },
+    {
+      "nom": "Petit Taxi Marrakech",
+      "type": "Taxi",
+      "ville": "Marrakech",
+      "desc": "Taxis jaune ocre pour explorer la ville ocre.",
+      "lien": "tel:19",
+      "id": "bfe4"
+    },
+    {
+      "nom": "ALSA Bus Marrakech",
+      "type": "Bus",
+      "ville": "Marrakech",
+      "desc": "Bus touristiques et urbains pour Marrakech.",
+      "lien": "https://www.alsa.ma/marrakech",
+      "id": "3c38"
+    },
+    {
+      "nom": "ONCF Marrakech",
+      "type": "Train",
+      "ville": "Marrakech",
+      "desc": "Liaisons régulières vers Casa et le nord.",
+      "lien": "https://www.oncf.ma/",
+      "id": "b15d"
+    },
+    {
+      "nom": "Petit Taxi Tanger",
+      "type": "Taxi",
+      "ville": "Tanger",
+      "desc": "Taxis bleu turquoise pour naviguer dans le détroit.",
+      "lien": "tel:19",
+      "id": "0a19"
+    },
+    {
+      "nom": "Al Boraq (TGV) - Tanger Ville",
+      "type": "Train",
+      "ville": "Tanger",
+      "desc": "Départ du TGV vers Rabat et Casablanca.",
+      "lien": "https://www.oncf.ma/",
+      "id": "7724"
+    },
+    {
+      "nom": "Alsa Bus Tanger",
+      "type": "Bus",
+      "ville": "Tanger",
+      "desc": "Transport urbain dans la ville du Détroit.",
+      "lien": "https://www.alsa.ma/tanger",
+      "id": "c593"
+    },
+    {
+      "nom": "Petit Taxi Agadir",
+      "type": "Taxi",
+      "ville": "Agadir",
+      "desc": "Taxis orange pour circuler dans la station balnéaire.",
+      "lien": "tel:19",
+      "id": "ef08"
+    },
+    {
+      "nom": "ALSA Bus Agadir",
+      "type": "Bus",
+      "ville": "Agadir",
+      "desc": "Transport urbain et banlieue d'Agadir.",
+      "lien": "https://www.alsa.ma/agadir",
+      "id": "3280"
+    },
+    {
+      "nom": "CTM Agadir",
+      "type": "Bus",
+      "ville": "Agadir",
+      "desc": "Lignes interurbaines premium vers tout le Maroc.",
+      "lien": "https://www.ctm.ma/",
+      "id": "1961"
+    },
+    {
+      "nom": "Petit Taxi Fès",
+      "type": "Taxi",
+      "ville": "Fès",
+      "desc": "Taxis rouges pour circuler dans la capitale spirituelle.",
+      "lien": "tel:19",
+      "id": "1352"
+    },
+    {
+      "nom": "ONCF Fès",
+      "type": "Train",
+      "ville": "Fès",
+      "desc": "Liaisons ferroviaires vers Meknès et Oujda.",
+      "lien": "https://www.oncf.ma/",
+      "id": "5045"
+    },
+    {
+      "nom": "City Bus Fès",
+      "type": "Bus",
+      "ville": "Fès",
+      "desc": "Transport public urbain à Fès.",
+      "lien": "https://www.citybusfes.ma/",
+      "id": "aa1e"
+    },
+    {
+      "nom": "Elite Drivers Casablanca",
+      "type": "Drivers",
+      "ville": "Casablanca",
+      "desc": "Chauffeurs privés professionnels pour vos déplacements en Mercedes-Benz.",
+      "lien": "tel:0522000000",
+      "id": "8e3c"
+    },
+    {
+      "nom": "Lux Driver Rabat",
+      "type": "Drivers",
+      "ville": "Rabat",
+      "desc": "Service de chauffeurs de luxe pour entreprises et particuliers.",
+      "lien": "tel:0537000000",
+      "id": "b86a"
+    },
+    {
+      "nom": "Marrakech VIP Drivers",
+      "type": "Drivers",
+      "ville": "Marrakech",
+      "desc": "Chauffeurs bilingues experts de la ville pour vos circuits touristiques.",
+      "lien": "tel:0524000000",
+      "id": "f22a"
+    }
+  ],
+  "PhoneN": [
+    {
+      "nom": "Police ",
+      "num": "190",
+      "id": "e6ee"
+    },
+    {
+      "nom": "Pompiers ",
+      "num": "150",
+      "id": "cb1e"
+    },
+    {
+      "nom": "Ambulance",
+      "num": "141",
+      "id": "0a9d"
+    },
+    {
+      "nom": "Gendarmerie Royale",
+      "num": "177",
+      "id": "cb1d"
+    },
+    {
+      "nom": "Secours Autoroute",
+      "num": "5050",
+      "id": "0235"
+    },
+    {
+      "nom": "ONCF (Trains)",
+      "num": "2255",
+      "id": "2bf1"
+    },
+    {
+      "nom": "Renseignement téléphonique",
+      "num": "160",
+      "id": "765d"
+    },
+    {
+      "nom": "Police secours ",
+      "num": "19",
+      "id": "c032"
+    },
+    {
+      "nom": "Dénonciation Corruption",
+      "num": "0537718888",
+      "id": "3d88"
+    }
+  ],
+  "localServices": [
+    {
+      "id": "1",
+      "details": "Disponible 24/7",
+      "addedBy": "user@test.com",
+      "type": "Transport",
+      "status": "accepted",
+      "nom": "Taxi Ahmed"
+    },
+    {
+      "id": "2",
+      "details": "Ouvert le dimanche",
+      "addedBy": "provider@test.com",
+      "type": "Restaurant",
+      "status": "accepted",
+      "nom": "Caf� Central"
+    },
+    {
+      "id": "3",
+      "nom": "Plomberie Moderne",
+      "type": "Plomberie",
+      "ville": "Rabat",
+      "adresse": "Avenue Hassan II, Agdal",
+      "telephone": "+212 537-777-888",
+      "proprietaire": "Youssef Tazi",
+      "details": "Services de plomberie et dépannage d'urgence",
+      "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?q=80&w=1000",
+      "addedBy": "admin",
+      "status": "accepted"
+    },
+    {
+      "id": "4",
+      "nom": "Café Glacier Venezia",
+      "type": "Café",
+      "ville": "Tanger",
+      "adresse": "Place de France",
+      "telephone": "+212 539-933-344",
+      "proprietaire": "Hassan Chraibi",
+      "details": "Café glacier avec vue sur le détroit, spécialités italiennes",
+      "image": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?q=80&w=1000",
+      "addedBy": "provider@gmail.com",
+      "status": "accepted"
+    },
+    {
+      "id": "5",
+      "nom": "Électricité Pro Services",
+      "type": "Électricité",
+      "ville": "Fès",
+      "adresse": "Rue Talaa Kebira, Médina",
+      "telephone": "+212 535-636-363",
+      "proprietaire": "Karim Idrissi",
+      "details": "Installation et réparation électrique, disponible 7j/7",
+      "image": "https://images.unsplash.com/photo-1621905251918-48416bd8575a?q=80&w=1000",
+      "addedBy": "admin",
+      "status": "accepted"
+    },
+    {
+      "id": "6",
+      "nom": "Surf Shop Agadir",
+      "type": "Sport & Loisirs",
+      "ville": "Agadir",
+      "adresse": "Boulevard de la Corniche",
+      "telephone": "+212 528-840-123",
+      "proprietaire": "Mehdi Amrani",
+      "details": "Location de matériel de surf, cours pour débutants",
+      "image": "https://images.unsplash.com/photo-1502680390469-be75c86b636f?q=80&w=1000",
+      "addedBy": "provider@gmail.com",
+      "status": "accepted"
+    },
+    {
+      "id": "7",
+      "nom": "Coiffure Élégance",
+      "type": "Coiffure",
+      "ville": "Casablanca",
+      "adresse": "Rue Prince Moulay Abdellah, Maarif",
+      "telephone": "+212 522-987-654",
+      "proprietaire": "Samira Berrada",
+      "details": "Salon de coiffure mixte, soins capillaires professionnels",
+      "image": "https://images.unsplash.com/photo-1560066984-138dadb4c035?q=80&w=1000",
+      "addedBy": "admin",
+      "status": "accepted"
+    },
+    {
+      "id": "8",
+      "nom": "Pâtisserie La Rose",
+      "type": "Pâtisserie",
+      "ville": "Rabat",
+      "adresse": "Avenue Allal Ben Abdellah",
+      "telephone": "+212 537-123-789",
+      "proprietaire": "Nadia Fassi",
+      "details": "Pâtisserie marocaine et française, gâteaux sur commande",
+      "image": "https://images.unsplash.com/photo-1486427944299-d1955d23e34d?q=80&w=1000",
+      "addedBy": "provider@gmail.com",
+      "status": "accepted"
+    },
+    {
+      "id": "9",
+      "nom": "Garage Auto Expert",
+      "type": "Mécanique",
+      "ville": "Marrakech",
+      "adresse": "Route de Casablanca, Sidi Ghanem",
+      "telephone": "+212 524-335-566",
+      "proprietaire": "Omar Benjelloun",
+      "details": "Réparation automobile toutes marques, diagnostic électronique",
+      "image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?q=80&w=1000",
+      "addedBy": "admin",
+      "status": "accepted"
+    },
+    {
+      "id": "10",
+      "nom": "Pharmacie Centrale",
+      "type": "Pharmacie",
+      "ville": "Tanger",
+      "adresse": "Boulevard Pasteur",
+      "telephone": "+212 539-932-211",
+      "proprietaire": "Dr. Laila Mansouri",
+      "details": "Pharmacie de garde, conseil pharmaceutique",
+      "image": "https://images.unsplash.com/photo-1576602976047-174e57a47881?q=80&w=1000",
+      "addedBy": "provider@gmail.com",
+      "status": "accepted"
+    },
+    {
+      "id": "11",
+      "nom": "Pressing Moderne",
+      "type": "Pressing",
+      "ville": "Fès",
+      "adresse": "Avenue Hassan II, Ville Nouvelle",
+      "telephone": "+212 535-624-789",
+      "proprietaire": "Rachid Alami",
+      "details": "Nettoyage à sec, repassage, retouches",
+      "image": "https://images.unsplash.com/photo-1517677208171-0bc6725a3e60?q=80&w=1000",
+      "addedBy": "admin",
+      "status": "accepted"
+    },
+    {
+      "id": "12",
+      "nom": "Gym Fitness Plus",
+      "type": "Sport & Loisirs",
+      "ville": "Agadir",
+      "adresse": "Avenue Mohammed V",
+      "telephone": "+212 528-821-456",
+      "proprietaire": "Samir Kadiri",
+      "details": "Salle de sport équipée, cours collectifs, coaching personnel",
+      "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=1000",
+      "addedBy": "provider@gmail.com",
+      "status": "accepted"
+    }
+  ],
+  "tours": [
+    {
+      "id": "979d",
+      "titre": "journee complet en medina de marakesh",
+      "destination": "Marrakech",
+      "duree": "1 jour",
+      "prix": "550",
+      "details": "journee en medina en visitan les places suivant \n.\n.\n.\n",
+      "image": "https://imgs.search.brave.com/JG5oBLbPKon4_iQq6Gm8fL0lcOZdwMx0Ohf7d1xcuck/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5jbnRyYXZlbGVy/LmNvbS9waG90b3Mv/NTRkZDFkZjhhOTcz/ZmM4ZjUwYjIyZmRi/L21hc3Rlci93XzEw/MjQsY19saW1pdC9t/YXJyYWtlY2gtbWVk/aW5hLTkuanBn",
+      "addedBy": "hamid@gmail.com",
+      "status": "accepted"
+    },
+    {
+      "id": "9c78",
+      "titre": "trip en foret ",
+      "destination": "Fès",
+      "duree": "4 jours",
+      "prix": "2500",
+      "details": "trip pour 5jours en forets entre fes et taza",
+      "image": "https://imgs.search.brave.com/fjtspcVVmtS5Ekeg_hR4_FLebuqDRKDDMaDLO9dhaW4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cGhvdG9zLXByZW1p/dW0vdnVlLXRlbnRl/LWRhbnMtZm9yZXRf/MTA0ODk0NC0zMTE5/NTQxLmpwZz9zZW10/PWFpc19oeWJyaWQ",
+      "addedBy": "hamid@gmail.com",
+      "status": "accepted"
+    },
+    {
+      "id": "6025",
+      "titre": "sorite a ifrane",
+      "destination": "ifrane",
+      "duree": "1jour",
+      "prix": "449",
+      "details": "sortie a ifrane \nazrou \nimouzar\nlhajeb\nmichlifen",
+      "image": "https://imgs.search.brave.com/uJoXJS1XtdW36gj3540onIEDFxHarXZ_csWKADA2EAg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c2h1dHRlcnN0b2Nr/LmNvbS9pbWFnZS1w/aG90by9zbm93LWF6/cm91LWlmcmFuZS1t/b3JvY2NvLTI2MG53/LTIyMTQyOTAyMDcu/anBn",
+      "addedBy": "hamid@gmail.com",
+      "status": "accepted"
+    },
+    {
+      "id": "9bb2",
+      "titre": "semaine au sahara",
+      "destination": "sahara",
+      "duree": "7 jours",
+      "prix": "8599",
+      "details": "7 jours au moroccan sahara\nquad\njmal\ntsawer \nglisa fl ghorob...\n",
+      "image": "https://imgs.search.brave.com/FbqzlSY2ULgH8uvOcO7V-oyMHgLIKSFoe_oMOHXEfUQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dGVyZGF2LmNvbS9D/b250ZW50L2ltZy9Q/cm9kdWl0cy9wcm9k/dWl0L01BUi80MzUy/My82Nzk1MjVfUXVh/dHJlVGllcnNfbWQu/b3JpLmpwZw",
+      "addedBy": "hamid@gmail.com",
+      "status": "accepted"
+    },
+    {
+      "id": "3809",
+      "titre": "Chefchaoun",
+      "destination": "Chefchaoun",
+      "duree": "5 heures",
+      "prix": "150",
+      "details": "tous entre les cartiers bleues de villes chefchaoun\n",
+      "image": "https://imgs.search.brave.com/KUop1_SdliE15OQNLEMMA6_LER7c11H-BVkgi0JAyrk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTM2/NzU3ODc4NS9waG90/by9jaGVmY2hhb3Vl/bi10aGUtYmx1ZS10/b3duLW9mLW1vcm9j/Y28uanBnP3M9NjEy/eDYxMiZ3PTAmaz0y/MCZjPVBkeXRUZ0tu/WlpwSS1ERmVjR241/SVV5ODJnMUdsc3VI/dVY3RGdING1reFE9",
+      "addedBy": "hamid@gmail.com",
+      "status": "accepted"
+    },
+    {
+      "id": "f36e",
+      "titre": "tours en bateau ",
+      "destination": "Tanger",
+      "duree": "2heures",
+      "prix": "90",
+      "details": "tours en mer de tanger \n",
+      "image": "https://imgs.search.brave.com/tnvl7ixKxL5zFCeZSh7CRzjoKkIoF1r_VB3g26yVzoA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kZXRv/dXJzZW5sb2lyZS5m/ci93cC1jb250ZW50/L3VwbG9hZHMvMjAy/My8wMy9JTUdfMjM1/NC1jb3BpZS53ZWJw",
+      "addedBy": "hamid@gmail.com",
+      "status": "accepted"
+    }
+  ]
+}
